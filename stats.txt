@@ -1,0 +1,178 @@
+== all cmd (go1.3) ==
+
+== compile+link (go1.3) ==
+
+== all cmd (go1.4) ==
+      3 none
+      1 std+cmd mixed
+     10 std+cmd split
+     23 std only
+
+== compile+link (go1.4) ==
+
+== all cmd (go1.5) ==
+     38 cmd only
+     36 none
+     81 std+cmd mixed
+     15 std+cmd split
+     56 std only
+
+== compile+link (go1.5) ==
+     36 cmd only
+     31 none
+     78 std+cmd mixed
+     30 std only
+
+== all cmd (go1.6) ==
+     45 cmd only
+     34 none
+     92 std+cmd mixed
+     15 std+cmd split
+     56 std only
+
+== compile+link (go1.6) ==
+     42 cmd only
+     29 none
+     89 std+cmd mixed
+     30 std only
+
+== all cmd (go1.7) ==
+     53 cmd only
+     62 none
+    104 std+cmd mixed
+     16 std+cmd split
+     80 std only
+
+== compile+link (go1.7) ==
+     48 cmd only
+     59 none
+    101 std+cmd mixed
+      2 std+cmd split
+     60 std only
+
+== all cmd (go1.8) ==
+     44 cmd only
+     64 none
+     85 std+cmd mixed
+     17 std+cmd split
+     90 std only
+
+== compile+link (go1.8) ==
+     39 cmd only
+     61 none
+     77 std+cmd mixed
+     10 std+cmd split
+     73 std only
+
+== all cmd (go1.9) ==
+     55 cmd only
+     63 none
+    128 std+cmd mixed
+     41 std+cmd split
+     60 std only
+
+== compile+link (go1.9) ==
+     47 cmd only
+     59 none
+    122 std+cmd mixed
+      9 std+cmd split
+     42 std only
+
+== all cmd (go1.10) ==
+     55 cmd only
+     66 none
+    142 std+cmd mixed
+     44 std+cmd split
+     70 std only
+
+== compile+link (go1.10) ==
+     49 cmd only
+     62 none
+    129 std+cmd mixed
+      9 std+cmd split
+     44 std only
+
+== all cmd (go1.11) ==
+     64 cmd only
+     67 none
+    161 std+cmd mixed
+     78 std+cmd split
+     83 std only
+
+== compile+link (go1.11) ==
+     55 cmd only
+     62 none
+    137 std+cmd mixed
+      9 std+cmd split
+     49 std only
+
+== all cmd (go1.12) ==
+     66 cmd only
+     67 none
+    164 std+cmd mixed
+     81 std+cmd split
+     87 std only
+
+== compile+link (go1.12) ==
+     57 cmd only
+     63 none
+    140 std+cmd mixed
+      9 std+cmd split
+     50 std only
+
+== all cmd (go1.13) ==
+     73 cmd only
+     70 none
+    160 std+cmd mixed
+     85 std+cmd split
+    100 std only
+
+== compile+link (go1.13) ==
+     64 cmd only
+     64 none
+    137 std+cmd mixed
+      9 std+cmd split
+     52 std only
+
+== all cmd (go1.14) ==
+     93 cmd only
+     74 none
+    176 std+cmd mixed
+     53 std+cmd split
+    108 std only
+
+== compile+link (go1.14) ==
+     84 cmd only
+     69 none
+    135 std+cmd mixed
+     10 std+cmd split
+     56 std only
+
+== all cmd (go1.15) ==
+    107 cmd only
+     89 none
+    223 std+cmd mixed
+     53 std+cmd split
+    117 std only
+
+== compile+link (go1.15) ==
+     86 cmd only
+     69 none
+    140 std+cmd mixed
+     10 std+cmd split
+     60 std only
+
+== all cmd (go1.16) ==
+     91 cmd only
+     75 none
+    195 std+cmd mixed
+     51 std+cmd split
+    111 std only
+
+== compile+link (go1.16) ==
+     84 cmd only
+     68 none
+    143 std+cmd mixed
+     10 std+cmd split
+     57 std only
+
